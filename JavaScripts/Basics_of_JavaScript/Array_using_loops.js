@@ -11,6 +11,7 @@ for (let i = 0; i < array.length; i++) {
 // let name = "akhlak";
 // let n = name.from(name); // it will create a array of characters of string "akhlak";
 // console.log(n);
+//flase
 
 // for of loop
 console.log("using for of loop");
